@@ -1,5 +1,6 @@
 AirBnB clone web application using React.
 
+![]('sample.gif')
 
 Tutorial Reference : https://www.youtube.com/watch?v=_ZTT9kw3PIE
 
